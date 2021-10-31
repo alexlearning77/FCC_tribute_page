@@ -70,6 +70,13 @@ aside img {
     float: left;
     
 }
-#history {
-    
+#img-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#image {
+    max-width: 80%;
+    height: auto;
+    margin: 20px 0;
 }
